@@ -1,0 +1,15 @@
+* {
+	font-family: 'Montserrat', sans-serif;
+}
+html, body {
+	margin:0;
+	padding:0;
+	}
+.container {
+    
+    margin: 0 auto;
+}
+@import 'blocks/home';
+@import 'blocks/about';
+@import 'blocks/photos';
+@import 'blocks/travel';
