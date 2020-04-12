@@ -1,0 +1,28 @@
+footer {
+    min-height: 223px;
+    display: flex;
+}
+.footer_links {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 3.08px;
+    text-decoration: none;
+}
+.links {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.business_travel {
+    margin-top: 90px;
+    text-align: center;
+    color: #000000;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5.12px;
+}
